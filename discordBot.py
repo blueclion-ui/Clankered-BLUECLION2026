@@ -452,4 +452,4 @@ async def on_ready():
 async def on_message(msg):
     await parse_command(msg)
 
-bot.run(discord_token)
+bot.run(MTU2Mzg4NjEyNjQ0NjQxNTg5Mg.G1ibT_.WMx-x9NEvSuaNu-iUw9eteTvGU74VBi_W626zQ)
